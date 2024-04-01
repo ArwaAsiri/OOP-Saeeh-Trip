@@ -6,3 +6,7 @@ Saeeh Trip is a project built using object-oriented programming principles, it s
 
 Please note that Saeeh Trip is a backend-only application and does not include a user interface. It is designed to be integrated into existing systems or used via API calls.
 
+
+### Technologies Used
++ java: Core functionality.
++ NetBeans:Development environment.
